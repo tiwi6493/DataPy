@@ -1,0 +1,10 @@
+# Python & Data Science
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.env
+venv/
+
+# macOS
+.DS_Store
